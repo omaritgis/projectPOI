@@ -1,0 +1,82 @@
+
+{
+    "status" : "OK",
+    "stations" : [
+    {
+    "x" : "17.1291",
+    "y" : "60.19891",
+    "name" : "Festplatsen",
+    "info" : "En plats för festliga stunder.",
+    "typ" : "noje",
+    "picture" : "festplatsen.jpg"
+    },
+    {
+    "x" : "17.3406",
+    "y" : "60.20745",
+    "name" : "Gnupe",
+    "info" : "Gnupe är en plats som ligger i Uppsala län. ",
+    "typ" : "plats",
+    "picture" : "gnupe.jpg"
+    },
+
+    {
+    "x" : "17.222",
+    "y" : "60.17909",
+    "name" : "Hade",
+    "info" : "Hade är en plats som ligger i Uppsala län. ",
+    "typ" : "plats",
+    "picture" : "hade.jpg"
+    },
+
+    {
+    "x" : "17.1946",
+    "y" : "60.19183",
+    "name" : "Korsnäset",
+    "info" : "Korsnäset är en plats i Uppsala län. ",
+    "typ" : "plats",
+    "picture" : "korsnaset.jpg"
+    },
+
+    {
+    "x" : "17.2812",
+    "y" : "60.22312",
+    "name" : "Kvillanudden",
+    "info" : "Kvillanudden är ett naturområde i Uppsala län. ",
+    "typ" : "naturomrade",
+    "picture" : "kvillanudden.jpg"
+    },
+
+    {
+    "x" : "17.79667",
+    "y" : "60.22302", 
+    "name" : "Norra Sundet",
+    "info" : "Vattenområde som heter Norra Sundet.",
+    "typ" : "vatten",
+    "picture" : "norrasundet.jpg"
+    },
+    {
+    "x" : "17.5701",
+    "y" : "60.22987",
+    "name" : "Östveda",
+    "info" : "Östveda är en plats i Uppsala län. ",
+    "typ" : "plats",
+    "picture" : "ostveda.jpg"
+    },
+    {
+    "x" : "17.1919",
+    "y" : "60.21013",
+    "name" : "Sandsnäsbadet",
+    "info" : "Sandnäsbadet är en badplats som ligger i Uppsala län. ",
+    "typ" : "badplats",
+    "picture" : "sandsnasbadet.jpg"
+    },
+    {
+    "x" : "17.2239",
+    "y" : "60.1872",
+    "name" : "Södra Sundet",
+    "info" : "Sönda Sundet är en plats i Uppsala län. ",
+    "typ" : "plats",
+    "picture" : "sodrasundet.jpg"
+    }
+    ]
+}

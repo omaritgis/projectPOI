@@ -1,0 +1,104 @@
+{
+    "status" : "OK",
+    "stations" : [
+    {
+    "x" : "16.48877",
+    "y" : "60.14311",
+    "name" : "Bårbyhällan",
+    "info" : "Bårbyhällan är ett naturområde i Gävleborgs län.",
+    "typ" : "naturomrade",
+    "picture" : "Barbyhallan.jpg"
+    },
+    {
+    "x" : "16.48095",
+    "y" : "60.10663",
+    "name" : "Båtsportklubben",
+    "info" : "En båtsportklubb för alla som älskar att prata om båtar.",
+    "typ" : "noje",
+    "picture" : "Batklubb.jpg"
+    },
+
+    {
+    "x" : "16.50868",
+    "y" : "60.13159",
+    "name" : "Brattnäset",
+    "info" : "Brattnäset är en plats i Uppsala län. ",
+    "typ" : "plats",
+    "picture" : "brattnaset.jpg"
+    },
+
+    {
+    "x" : "16.47466",
+    "y" : "60.14203",
+    "name" : "Dragsheden öst",
+    "info" : "Dragsheden öst är ett naturområde i Gävleborgs län. ",
+    "typ" : "naturomrade",
+    "picture" : "draghedenost.jpg"
+    },
+{
+    "x" : "16.47136",
+    "y" : "60.14346",
+    "name" : "Dragsheden väst",
+    "info" : "Dragsheden väst är ett naturområde i Gävleborgs län. ",
+    "typ" : "naturomrade",
+    "picture" : "draghedenvast.jpg"
+    },
+
+    {
+    "x" : "16.44909",
+    "y" : "60.1187",
+    "name" : "Göknäset",
+    "info" : "Göknäset är ett naturområde i Gävleborgs län. ",
+    "typ" : "naturomrade",
+    "picture" : "goknaset.jpg"
+    },
+    {
+    "x" : "16.47415",
+    "y" : "60.10404",
+    "name" : "Gösta Camping",
+    "info" : "En campingplats för dem som gillar naturen.",
+    "typ" : "camping",
+    "picture" : "gostacamping.jpg"
+    },
+    {
+    "x" : "16.47674",
+    "y" : "60.10672",
+    "name" : "Östa norr",
+    "info" : "Östa norr är ett naturreservat i Uppsala län. ",
+    "typ" : "naturreservat",
+    "picture" : "ostanorr.jpg"
+    },
+    {
+    "x" : "16.47127",
+    "y" : "60.10565",
+    "name" : "Östa väst",
+    "info" : "Östa väst är ett naturreservat i Uppsala län. ",
+    "typ" : "naturreservat",
+    "picture" : "ostavast.jpg"
+    },
+    {
+    "x" : "16.47325",
+    "y" : "60.12585",
+    "name" : "Sandön",
+    "info" : "Sandön är ett naturområde i Gävleborgs län. ",
+    "typ" : "naturomrade",
+    "picture" : "sandon.jpg"
+    },
+    {
+    "x" : "16.51035",
+    "y" : "60.12755",
+    "name" : "Skekarsbo",
+    "info" : "Skekarsbo är en plats i Uppsala län. ",
+    "typ" : "plats",
+    "picture" : "Skekarsbo.jpg"
+    },
+    {
+    "x" : "16.47824",
+    "y" : "60.13012",
+    "name" : "Strångnäs",
+    "info" : "Strångnäs är en plats i Gävleborgs län. ",
+    "typ" : "plats",
+    "picture" : "strangnas.JPG"
+    }
+    ]
+}

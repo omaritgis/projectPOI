@@ -1,0 +1,57 @@
+{
+    "status" : "OK",
+    "stations" : [
+    {
+    "x" : "16.5287",
+    "y" : "60.17273",
+    "name" : "Cafe Udden",
+    "info" : "Ett kafé som erbjduer kaffe och kakor.",
+    "typ" : "cafe",
+    "picture" : "cafeudden.jpg"
+    },
+    {
+    "x" : "16.48372",
+    "y" : "60.16877",
+    "name" : "Paddla Edsviken",
+    "info" : "Paddla Edsviken är en plats för dem som vill testa på paddel! ",
+    "typ" : "paddel",
+    "picture" : "edsviken.jpg"
+    },
+
+    {
+    "x" : "16.53181",
+    "y" : "60.17277",
+    "name" : "Gysinge",
+    "info" : "Gysinge är en plats i Gävleborgs län. ",
+    "typ" : "plats",
+    "picture" : "gysinge.jpg"
+    },
+
+    {
+    "x" : "16.5023",
+    "y" : "60.15752",
+    "name" : "Gärdsvekarna",
+    "info" : "Gärdsvekarna är ett naturområde som ligger i Gävleborgs län. ",
+    "typ" : "naturomrade",
+    "picture" : "gardsvekarna.jpg"
+    },
+
+    {
+    "x" : "16.47666",
+    "y" : "60.15225",
+    "name" : "Ista",
+    "info" : "Ista är en plats i Gävleborgs län. ",
+    "typ" : "plats",
+    "picture" : "ista.jpg"
+    },
+
+    {
+    "x" : "16.48537",
+    "y" : "60.15747",
+    "name" : "Karlholmen",
+    "info" : "Karlholmen är ett naturområde i Gävleborgs län. ",
+    "typ" : "naturomrade",
+    "picture" : "kalholmen.jpg"
+    }
+    ]
+}
